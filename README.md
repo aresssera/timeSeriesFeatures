@@ -62,8 +62,9 @@ In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated i
 
 </td><td>
 
-|-|
+
 |Extra Trees|
+|-|
 |Gaussian Process|
 |Linear Regression|
 |Random Forest|

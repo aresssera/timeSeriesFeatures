@@ -25,11 +25,11 @@ Have the following libraries installed:
 - tsfresh
 
 
-## setComparison
+## Feature Extractor Comparison
 
 The analysis introduced in https://github.com/hendersontrent/feature-set-comp was used as a guideline.
 
-[Setup]
-
-## classification and regression
+### Execution
+All test can be run immidiately.
+If you want to use your own data, you can calculate the features using _calcFeat_. Dabei sollte das Format beachtet werden (siehe 
 

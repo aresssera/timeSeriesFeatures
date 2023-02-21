@@ -79,5 +79,5 @@ All notebooks can be run immediately. Comments that are (hopefully) useful are d
 
 ### Output
 
-The output plots are not stored in a directory. 
+The output plots are *not* stored in a directory. 
 

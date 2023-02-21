@@ -48,15 +48,6 @@ The outputs are stored in the correspongind folder `/outputs`.
 For each task, six commonly used models were tested in combination with the mentioned feature sets.
 In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated in combination with the corresponding _Random Forest_ model.
 
-### Execution
-
-All notebooks can be run immediately. Comments that are (hopefully) useful are directly included in the files.
-
-### Output
-
-The output plots are not stored in a directory. 
-
-
 <table>
 <tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
@@ -72,3 +63,12 @@ The output plots are not stored in a directory.
 |a|s|d|f|
 
 </td></tr> </table>
+
+### Execution
+
+All notebooks can be run immediately. Comments that are (hopefully) useful are directly included in the files.
+
+### Output
+
+The output plots are not stored in a directory. 
+

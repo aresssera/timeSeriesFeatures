@@ -49,12 +49,12 @@ For each task, six commonly used models were tested in combination with the ment
 In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated in combination with the corresponding _Random Forest_ model.
 
 <table>
-<tr><th>Table 1 Heading 1 </th><th>Table 1 Heading 2</th></tr>
+<tr><th> Classification </th><th> Regression</th></tr>
 <tr><td>
 
-|Table 1| Middle | Table 2|
-|--|--|--|
-|a| not b|and c |
+|Decision Tree|
+|--|
+|Gaussian Process|
 
 </td><td>
 

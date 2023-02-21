@@ -53,29 +53,19 @@ In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated i
 <tr><td>
 
 |Decision Tree|
-|--|
 |Gaussian Process|
-|--|
 |K-Nearest Neighbours|
-|--|
 |Naïve Bayes|
-|--|
 |Neural Network|
-|--|
 |Random Forest|
 
 </td><td>
 
 |Extra Trees|
-|--|
 |Gaussian Process|
-|--|
 |Linear Regression|
-|--|
 |Random Forest|
-|--|
 |Ridge Regression|
-|--|
 |SVR|
 
 </td></tr> </table>

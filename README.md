@@ -30,34 +30,26 @@ Have the following libraries installed:
 The analysis introduced in https://github.com/hendersontrent/feature-set-comp was used as a guideline.
 
 ### Execution
-All tests can be run immidiately.
+All notebooks can be run immediately.
 
 
-If you want to use your own data, you can calculate the features using _calcFeat_. 
-_compTime_ can be used directly. For all others, _correlationMatrices_ must be run first.
+If you want to use your own data, you can calculate the features using `calcFeat`. 
+`compTime` can be used directly. For all others, `correlationMatrices` must be run first.
 
 ### Output
 
-The outputs are stored in the correspongind folder _output_
+The outputs are stored in the correspongind folder `outputs`.
 
 
 ## Feature Impact
 
-Six commonly used models were tested for each task.
-In both cases, the features of _TSFEL_ and _tsfresh_ were investigated in combination with _Random Forest_ models.
+For each task, six commonly used models were tested in combination with the mentioned feature sets.
+In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated in combination with _Random Forest_ models.
 
 ### Execution
 
-All tests can be run. If 
+All notebooks can be run immediately. 
 
 ### Output
 
 The output plots are not stored in a directory.
-
-
-```
-sdofhkdfh
-```
-
-
-== `lsdjfslkdf` ==

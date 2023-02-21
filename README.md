@@ -34,7 +34,7 @@ All notebooks can be run immediately.
 
 
 If you want to use your own data, you can calculate the features using `calcFeat`. 
-`compTime` can be used directly. For all others, `correlationMatrices` must be run first.
+After that, the computation time comparison can be directly done using `compTime`. For all tests, `correlationMatrices` must be run first.
 
 ### Output
 
@@ -44,7 +44,7 @@ The outputs are stored in the correspongind folder `outputs`.
 ## Feature Impact
 
 For each task, six commonly used models were tested in combination with the mentioned feature sets.
-In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated in combination with _Random Forest_ models.
+In both cases, the features of _TSFEL_ and _tsfresh_ were further investigated in combination with the corresponding _Random Forest_ model.
 
 ### Execution
 

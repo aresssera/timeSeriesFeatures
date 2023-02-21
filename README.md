@@ -28,7 +28,8 @@ Have the following libraries installed:
 ## setComparison
 
 The analysis introduced in https://github.com/hendersontrent/feature-set-comp was used as a guideline.
- ==sfdkjhsdf==
+
+[Setup]
 
 ## classification and regression
 

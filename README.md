@@ -30,6 +30,27 @@ Have the following libraries installed:
 The analysis introduced in https://github.com/hendersontrent/feature-set-comp was used as a guideline.
 
 ### Execution
-All test can be run immidiately.
-If you want to use your own data, you can calculate the features using _calcFeat_. Dabei sollte das Format beachtet werden (siehe 
+All tests can be run immidiately.
+
+
+If you want to use your own data, you can calculate the features using _calcFeat_. 
+_compTime_ can be used directly. For all others, _correlationMatrices_ must be run first.
+
+### Output
+
+The outputs are stored in the correspongind folder _output_
+
+
+## Feature Impact
+
+Six commonly used models were tested for each task.
+In both cases, the features of _TSFEL_ and _tsfresh_ were investigated in combination with _Random Forest_ models.
+
+### Execution
+
+All tests can be run. If 
+
+### Output
+
+The output plot are not stored in a directory.
 

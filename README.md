@@ -52,5 +52,6 @@ All tests can be run. If
 
 ### Output
 
-The output plot are not stored in a directory.
+The output plots are not stored in a directory.
 
+'''sdofhkdfh'''
